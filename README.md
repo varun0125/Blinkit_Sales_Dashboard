@@ -14,8 +14,11 @@ Geographic Analysis – State/region-wise sales distribution.
 Trend Analysis – Monthly and quarterly performance overview.
 
 
-<a href = "<img width="985" height="558" alt="blinkit sales dashboard" src="https://github.com/user-attachments/assets/33b0173a-6d9d-423d-a44a-a9d59662342b" />
-">📁Blinkit-Dashboard</a>
+<a href="https://github.com/varun0125/Blinkit_Sales_Dashboard/blob/main/blinkit%20sales%20dashboard.png">
+  <img width="985" height="558" alt="blinkit sales dashboard" src="https://github.com/user-attachments/assets/33b0173a-6d9d-423d-a44a-a9d59662342b" />
+  📁 Blinkit-Dashboard
+</a>
+
  ┣ 📊 BLINKIT.pbix        
  ┣ 📄 README.md           
  ┗ 📂 screenshots/

@@ -20,5 +20,5 @@ Trend Analysis – Monthly and quarterly performance overview.
 </a>
 
  <a href = "https://github.com/varun0125/Blinkit_Sales_Dashboard/blob/main/BLINKIT.pbix"> 📊 BLINKIT.pbix</a>        
- ┣ 📄 README.md           
+         
  ┗ 📂 screenshots/

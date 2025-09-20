@@ -9,6 +9,7 @@ It provides deep insights into **sales trends, top-performing categories, and cu
 
 - [📊 Features](#-features)  
 - [📌 Dashboard Preview](#-dashboard-preview)  
+- [🎥 Tutorial Video](#-tutorial-video)  
 - [📥 Download Project](#-download-project)  
 - [📂 Screenshots](#-screenshots)  
 
@@ -28,6 +29,15 @@ It provides deep insights into **sales trends, top-performing categories, and cu
 
 <a href="https://github.com/varun0125/Blinkit_Sales_Dashboard/blob/main/blinkit%20sales%20dashboard.png">
   <img width="900" alt="blinkit sales dashboard" src="https://github.com/user-attachments/assets/33b0173a-6d9d-423d-a44a-a9d59662342b" />
+</a>  
+
+---
+
+## 🎥 Tutorial Video  
+
+<a href="https://github.com/varun0125/Blinkit_Sales_Dashboard/blob/main/Blinkit%20Tutorial.mp4">
+  <img width="800" alt="Blinkit Tutorial Video" src="https://github.com/user-attachments/assets/33b0173a-6d9d-423d-a44a-a9d59662342b" />
+  <br/>▶ Click to Watch the Tutorial
 </a>  
 
 ---
